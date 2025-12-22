@@ -16,8 +16,6 @@ Hands-on experience with Linux, networking, scripting, and security fundamentals
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Felipe-Networking" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg">
-  <img align="center" alt="Felipe-BurpSuite" height="30" width="40"
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg">
 </div>
 
 ## Projects
