@@ -3,19 +3,10 @@
 Cybersecurity student focused on **Offensive Security** and **Infrastructure**.  
 Hands-on experience with Linux, networking, scripting, and security fundamentals.
 
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/Bash-000?style=flat&logo=gnu-bash)
-![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-000?style=flat&logo=windows)
-![Networking](https://img.shields.io/badge/Networking-000?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-000?style=flat)
-![Gobuster](https://img.shields.io/badge/Gobuster-000?style=flat)
-![Amass](https://img.shields.io/badge/Amass-000?style=flat)
-![Searchsploit](https://img.shields.io/badge/Searchsploit-000?style=flat)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000?style=flat)
-![Zabbix](https://img.shields.io/badge/Zabbix-000?style=flat)
-![Security+](https://img.shields.io/badge/CompTIA_Security+-000?style=flat)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felipe-Bash" height="30" width="40" src="https://img.shields.io/badge/Bash-000?style=flat&logo=gnu-bash">
+</div>
 
 
 ## Projects
