@@ -5,10 +5,26 @@ Hands-on experience with Linux, networking, scripting, and security fundamentals
 
 ## Tech Stack
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Bash" height="30" width="40" src="https://img.shields.io/badge/Bash-000?style=flat&logo=gnu-bash">
-</div>
+  <!-- Languages & Scripting -->
+  <img align="center" alt="Felipe-Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felipe-Bash" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 
+  <!-- Operating Systems -->
+  <img align="center" alt="Felipe-Linux" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Felipe-Windows" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+
+  <!-- Security / Networking Tools -->
+  <img align="center" alt="Felipe-Networking" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg">
+  <img align="center" alt="Felipe-Nmap" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg">
+  <img align="center" alt="Felipe-Git" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
 ## Projects
 - Network and port enumeration scripts
