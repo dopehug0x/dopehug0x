@@ -10,14 +10,10 @@ Hands-on experience with Linux, networking, scripting, and security fundamentals
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-Bash" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-
-  
   <img align="center" alt="Felipe-Linux" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Felipe-Windows" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-
- 
   <img align="center" alt="Felipe-Networking" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg">
   <img align="center" alt="Felipe-Git" height="30" width="40"
