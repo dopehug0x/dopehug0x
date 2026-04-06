@@ -8,7 +8,7 @@ Focusing on Red Team operations, automation, and scalable monitoring.
 ## 🚀 About Me
 - 🛡️ **Cybersecurity:** CompTIA Security+ Certified & Hackers do Bem Specialist.
 - 🏗️ **Infrastructure:** Internal IT Support Technician with experience in MSP environments.
-- 🛠️ **Current Focus:** Developing **Zalor**, a digital hygiene and security monitoring service.
+- 🛠️ **Current Focus:** Advanced studies in Red Team operations and Infrastructure-as-Code (IaC) for security.
 - 🐧 **Linux Enthusiast:** Advanced management of Debian-based systems and automated workflows.
 
 ---
