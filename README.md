@@ -33,7 +33,7 @@ Focusing on Red Team operations, automation, and scalable monitoring.
 
 ### Monitoring & Databases
 <div style="display: inline-block">
-  <img align="center" alt="Zabbix" height="30" width="40" src="https://cdn.simpleicons.org/zabbix/FF9100" title="Zabbix">
+  <img align="center" alt="Zabbix" height="30" width="40" src="https://img.shields.io/badge/Zabbix-FF9100?style=for-the-badge&logo=zabbix&logoColor=white">
   <img align="center" alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
