@@ -1,6 +1,6 @@
 # Hi, I'm Felipe Machado 👋
 
-### Infrastructure Analyst | Offensive Security | Cybersecurity Student
+### Infrastructure Analyst | Offensive Security | DevSecOps enthusiast
 Focusing on Red Team operations, automation, and scalable monitoring.
 
 ---
