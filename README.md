@@ -52,9 +52,6 @@ Fast and optimized network enumeration tool developed in Python, focusing on por
 ### [URL-Response-Enumerator](https://github.com/dopehug0x/url-response-enumerator)
 Automation tool designed to probe web targets and analyze HTTP status codes, streamlining the initial phase of web reconnaissance.
 
-### [Simple Reverse Shell](https://github.com/dopehug0x/simple_reverse_shell)
-A practical implementation of a reverse shell for educational purposes in Offensive Security, demonstrating socket communication fundamentals.
-
 ---
 
 ## 📫 Connect with me
